@@ -46,6 +46,10 @@ public class BaseClass {
 		location.sendKeys(txt);
 	}
 	
+	public String getTitle()
+	{
+		return driver.getTitle();
+	}
 	public void mouseClick(WebElement location)
 	{   
 		Actions mouse=new Actions(driver);
