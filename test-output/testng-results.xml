@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-19T10:41:46 IST" name="Suite" finished-at="2024-08-19T10:42:33 IST" duration-ms="46419">
+    <groups>
+    </groups>
+    <test started-at="2024-08-19T10:41:46 IST" name="Test" finished-at="2024-08-19T10:42:33 IST" duration-ms="46419">
+      <class name="TestPackage.LoginTest">
+        <test-method signature="login()[pri:0, instance:TestPackage.LoginTest@7714e963]" started-at="2024-08-19T10:41:46 IST" name="login" finished-at="2024-08-19T10:42:31 IST" duration-ms="44750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestPackage.LoginTest -->
+      <class name="TestPackage.DashBoardTest">
+        <test-method signature="logout()[pri:0, instance:TestPackage.DashBoardTest@1ab3a8c8]" started-at="2024-08-19T10:42:31 IST" name="logout" finished-at="2024-08-19T10:42:33 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- TestPackage.DashBoardTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
